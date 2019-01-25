@@ -537,21 +537,23 @@ img.img-ind {
     width: 100vw;
   }
   #c_center img {
-    width: 100vw;
+    width: 93vw;
     height: 100%;
   }
   #c_center p {
     height: 100% !important;
     width: 100vw !important;
+    padding-top: 30px;
+    font-size: 26px !important;
   }
   img[title="Back 1 panels"] {
-    left: 11px !important;
+    left: 2px !important;
     top: -17px !important;
   }
 
   img[title="Forward 1 panels"] {
     left: auto !important;
-    right: 11px;
+    right: 2px;
     top: -17px !important;
   }
   /* end carousel styles */
@@ -612,7 +614,7 @@ img.img-ind {
     letter-spacing: 6.2px;
     position: absolute;
     top: 12px;
-    left: 50%;
+    left: 58%;
     transform: translateX(-100%);
   }
   .new-row {
@@ -621,6 +623,7 @@ img.img-ind {
   #footer img {
     width: 38px;
     transform: translateX(100%);
+    padding-left: 4%;
   }
   .panel, 
   .panel img {
