@@ -561,6 +561,8 @@ img.img-ind {
   /* grid styles */
   #content_container {
     width: 100vw;
+    margin-left: -17px;
+
   }
 
   .grid_4 {
