@@ -561,7 +561,7 @@ img.img-ind {
   }
   #c_center p {
     height: 100% !important;
-    width: 100vw !important;
+    width: calc(100vw - 17px) !important;
     padding-top: 30px;
     font-size: 26px !important;
     max-width: 100%;
