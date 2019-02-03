@@ -507,6 +507,12 @@ img.img-ind {
     background-position: center center;
     background-repeat: no-repeat;
   }
+  #cssmenu > ul > li.active a:hover {
+    background: none;
+  }
+  #cssmenu > ul > li a:hover {
+    background: none;
+  }
   #cssmenu ul li a {
     width: 100%;
     height: 100%;
