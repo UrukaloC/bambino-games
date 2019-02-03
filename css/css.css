@@ -514,7 +514,7 @@ img.img-ind {
     background: transparent;
   }
   #cssmenu > ul > li.active {
-    background-color: #fff;
+    background-color: #e6e6e6;
   }
   #cssmenu > ul > li.active a {
     background: transparent;
